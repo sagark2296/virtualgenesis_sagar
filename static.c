@@ -14,6 +14,6 @@ int main()
 void test()
 {
  int z=500;
- printf("x=%d,z=%d,g=%d\n",x,z);
+ printf("x=%d,z=%d,g=%d\n",x,z,g);
  g=600;
 }
